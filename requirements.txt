@@ -1,0 +1,10 @@
+numpy
+matplotlib
+pandas
+Pillow
+requests
+boto3
+opencv-python
+scipy==1.4.1
+streamlit==0.64.0
+streamlit_drawable_canvas==0.4.0
